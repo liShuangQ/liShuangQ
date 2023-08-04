@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web front end
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 email:1634585729@qq.com
+- 📫 email:li_shuangq@foxmail.com
 
 <!---
 liShuangQ/liShuangQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
