@@ -1,4 +1,4 @@
-<h1 align="center" > <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome！;祝您开心！&center=true&size=27"> </a> </h1>
+<h1 align="center" border="0px" border-bottom="0px"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome！;祝您开心！&center=true&size=27"> </a> </h1>
 
 # About me
 - 👋 Hi, I’m @liShuangQi
