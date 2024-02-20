@@ -9,8 +9,8 @@
 # About my Github
 
 <div align="left"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lishuangQ&theme=default&show_icons=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuangQ&layout=compact" /> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lishuangQ&theme=default&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuangQ&layout=compact" /> 
 </div>
 
 
