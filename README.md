@@ -10,7 +10,7 @@
 
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lishuangQ&theme=default&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuangQ&layout=compact" /> 
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuangQ&layout=compact" /> 
 </div>
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuangQ&layout=compact" /> </div>
